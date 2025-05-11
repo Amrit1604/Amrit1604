@@ -1,6 +1,6 @@
 <!-- futuristic terminal-style GitHub profile README -->
 
-<h1 align="center">👋 Welcome  I’m <span style="color:#00ffe7;">Amrit1604</span></h1>
+<h1 align="center">👋 Welcome  I’m <span style="color:#00ffe7;">Amrit Joshi</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00FFE7&center=true&vCenter=true&width=435&lines=Code+%3D+Life;Automate+Everything.;Hack+the+Future." alt="Typing SVG" />
