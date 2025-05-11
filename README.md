@@ -1,6 +1,6 @@
 <div align="center">
   
-# `<Amrit1604/>`
+# `AMRIT JOSHI`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00B0FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Full+Stack+Developer;Problem+Solver;Tech+Explorer;Always+Learning" />
 
