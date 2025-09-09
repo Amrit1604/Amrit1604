@@ -1,125 +1,117 @@
-<!--
-██████╗  █████╗ ███╗   ███╗██████╗ ██╗████████╗     ███████╗ ██████╗███████╗
-██╔══██╗██╔══██╗████╗ ████║██╔══██╗██║╚══██╔══╝     ██╔════╝██╔════╝██╔════╝
-██████╔╝███████║██╔████╔██║██████╔╝██║   ██║        ███████╗██║     ███████╗
-██╔═══╝ ██╔══██║██║╚██╔╝██║██╔═══╝ ██║   ██║        ╚════██║██║     ╚════██║
-██║     ██║  ██║██║ ╚═╝ ██║██║     ██║   ██║        ███████║╚██████╗███████║
-╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝   ╚═╝        ╚══════╝ ╚═════╝╚══════╝
--->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amrit1604/Amrit1604/main/assets/banner-hi-tech.gif" alt="Futuristic Banner" width="80%" />
-</p>
-
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Amrit1604/Amrit1604/main/assets/animated-avatar.gif" alt="Avatar" width="120" style="border-radius: 50%;"/>
-  <br>
-  <span style="font-size:2.4em; color:#00ffea;">AMRIT JOSHI</span>
-  <br>
-  <span style="font-size:1.1em; color:#fff;">Full-Stack Engineer • Tech Futurist • Visionary Coder</span>
+  Amrit Joshi
 </h1>
-
----
-
-## 🚀 Welcome to My Digital Dimension
-
-**Step Beyond Ordinary!**  
-I am a next-gen coder, system architect, and creative mind, fusing software and imagination to build the future—today.
-
-> **Invent. Code. Automate. Dominate.**
-
----
-
-## 🧬 Quantum Profile Snapshot
-
-```yaml
-Name: Amrit Joshi
-Role: Full-Stack & Software Developer
-DNA: Futuristic, High-Octane, Impact-Driven
-Location: Zirakpur, Punjab, India
-Mission: Make tech epic, make code magic, make users smile
-```
-
----
-
-## 🦾 My Superpowers
-
-| Tech | Web | Backend | AI & Automation | DevOps | Hardware |  
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![REST](https://img.shields.io/badge/REST-00b8d4?style=flat-square&logo=swagger) ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json) ![Auth](https://img.shields.io/badge/Auth-0d1117?style=flat-square&logo=keycdn) | ![OpenAI](https://img.shields.io/badge/AI-AI%20Tools-00ffea?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-009688?style=flat-square&logo=zapier) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Shell](https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat-square&logo=gnu-bash) | Arduino, Sensors, IoT, Real-Time Systems |
-
----
-
-## 🛸 Projects from the Outer Rim
-
-### 👾 **Loginator-3000**
-> Secure Linux login system with Bash CGI, futuristic dialog UI, OTP 2FA, admin approval, session control, Docker access.
-- [View Source](#) | [Demo GIF](assets/loginator-demo.gif)
-
-### 🧠 **TechZen**
-> Full-stack tech blog & price comparison site powered by Node.js, Express, MongoDB, and AI tools.
-- Next-gen platform for tech news, blogs, and smart shopping.
-
-### 🍽️ **Nine Tails Kitchen**
-> Food delivery web app with user/admin portals, order tracking, and hyper-secure payment flow.
-
-### 🪄 **Potion Master**
-> Java CLI game, OOP magic, coded for learning and fun.
-
-### 🤖 **Hardware Heroes**
-- **Smoke Detection System:** Sensors + buzzer modules for real-time fire safety
-- **Water Quality Monitor:** Arduino + TDS sensors for clean water, always
-
-### 🔥 More on my [GitHub Portfolio](https://github.com/Amrit1604?tab=repositories)
-
----
-
-## 🧠 Education: Powering My Neural Net
-
-- **Chitkara University, Punjab** – B.Tech Computer Science & Engineering (2023–2027)
-  - Data Structures | Web Dev | OS | DBMS | AI
-- **GMSSS 23-A, Chandigarh** – Class XII (2023)
-- **CL DAV Public School, Panchkula** – Class X (2021)
-- **La Martiniere College, Lucknow** – Up to Class IX
-
----
-
-## 🏅 Certifications: Leveling Up
-
-- Blockchain Fundamentals (Coursera, 2025)
-- Blockchain & Scalability (Coursera, 2025)
-- Google Cybersecurity Professional (Coursera, 2024)
-- Finance & Investment Basics (Coursera, 2023)
-- *More coming soon…*
-
----
-
-## 🛰️ Connect with Me
-
-<a href="mailto:amritjoshi2004@gmail.com"><img src="https://img.shields.io/badge/email-amritjoshi2004@gmail.com-ff69b4?style=for-the-badge"></a>
-<a href="https://github.com/Amrit1604"><img src="https://img.shields.io/badge/GitHub-Amrit1604-181717?style=for-the-badge&logo=github"></a>
-<a href="tel:+919501580144"><img src="https://img.shields.io/badge/Phone-%2B91%20950%201580%20144-00ffea?style=for-the-badge"></a>
-<br>
-📍 Zirakpur, Punjab, India
-
----
-
-## 📄 Download My [Resume](./MyResume.pdf)
-
----
-
-## 🌌 The Future Is Now
-
-> "I don't just code—I craft digital realities.  
-> I don't just build—I launch the next wave.  
-> Let's collaborate, innovate, and leave a mark on the universe."
-
----
+<p align="center">
+  <strong>Full-Stack Developer | Software Engineer</strong>
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amrit1604/Amrit1604/main/assets/neon-divider.gif" width="80%" />
+  <a href="https://github.com/Amrit1604"><img src="https://img.shields.io/badge/GitHub-Amrit1604-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:amritjoshi2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-ff69b4?style=for-the-badge&logo=gmail"></a>
+  <a href="./MyResume.pdf"><img src="https://img.shields.io/badge/Resume-Download-00ffea?style=for-the-badge&logo=googledocs"></a>
 </p>
 
 ---
 
-### ⚡ Powered by Imagination | Fueled by Code | Ready for Tomorrow
+### 👋 About Me
+
+I am a passionate and results-driven Computer Science student with a strong foundation in full-stack development. I enjoy solving complex problems and building robust, scalable applications from the ground up. My expertise spans from crafting intuitive user interfaces with modern frameworks to designing efficient backend systems and databases.
+
+I am deeply interested in system architecture, automation, and the practical applications of AI. I am always eager to learn new technologies and contribute to impactful projects that challenge my skills.
+
+---
+
+### 💻 Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) ![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat-square&logo=gnu-bash) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js) ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux) ![REST API](https://img.shields.io/badge/REST-00b8d4?style=flat-square&logo=swagger) |
+| **Hardware & IoT** | Arduino, ESP32, Sensors, Real-Time Systems |
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Secure Shell Login System (Loginator)</h3>
+      <p>A robust, secure login system for Linux shells built with Bash CGI. Features include OTP-based 2FA, admin approval for new users, comprehensive session management, and controlled Docker container access.</p>
+      <strong>Tech Stack:</strong>
+      <p>
+        <img src="https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat-square&logo=gnu-bash" alt="Bash">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux" alt="Linux">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" alt="Docker">
+      </p>
+      <a href="#">View Source</a> </td>
+    <td width="50%">
+      <h3>TechZen Blog & Price Comparison</h3>
+      <p>A full-stack tech blog and price comparison platform. The site allows users to read articles, compare product prices, and interact with content. Powered by AI tools for content generation and analysis.</p>
+      <strong>Tech Stack:</strong>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" alt="Express">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="MongoDB">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React">
+      </p>
+      <a href="#">View Source</a> </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Nine Tails Kitchen</h3>
+      <p>A full-stack food delivery web application. It features separate portals for users and administrators, real-time order tracking, and a secure payment gateway integration.</p>
+      <strong>Tech Stack:</strong>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="MongoDB">
+      </p>
+      <a href="#">View Source</a> </td>
+    <td width="50%">
+      <h3>Hardware & IoT Projects</h3>
+      <p>
+        <ul>
+          <li><b>Smoke Detection System:</b> Real-time fire safety monitor using Arduino and smoke sensors.</li>
+          <li><b>Water Quality Monitor:</b> IoT device to measure water purity using TDS sensors.</li>
+        </ul>
+      </p>
+      <strong>Tech Stack:</strong>
+      <p>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino" alt="Arduino">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++">
+      </p>
+      <a href="https://github.com/Amrit1604?tab=repositories">View All Projects</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎓 Education & Certifications
+
+-   **B.Tech, Computer Science & Engineering** | Chitkara University, Punjab (2023–2027)
+-   **Google Cybersecurity Professional Certificate** | Coursera (2024)
+-   **Blockchain Specialization** (Fundamentals & Scalability) | Coursera (2025)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amrit1604&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Amrit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrit1604&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <strong>Location:</strong> Zirakpur, Punjab, India <br>
+  <strong>Email:</strong> <a href="mailto:amritjoshi2004@gmail.com">amritjoshi2004@gmail.com</a> <br>
+  <strong>Phone:</strong> +91 9501580144
+</p>
