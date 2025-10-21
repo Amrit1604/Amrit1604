@@ -106,6 +106,7 @@ I am deeply interested in system architecture, automation, and the practical app
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrit1604&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+[![An image of @amrit1604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amrit1604)](https://holopin.io/@amrit1604)
 ---
 
 ### 📫 Let's Connect
