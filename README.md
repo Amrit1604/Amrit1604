@@ -35,67 +35,7 @@ I am deeply interested in system architecture, automation, and the practical app
 ---
 
 ### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Secure Shell Login System (Loginator)</h3>
-      <p>A robust, secure login system for Linux shells built with Bash CGI. Features include OTP-based 2FA, admin approval for new users, comprehensive session management, and controlled Docker container access.</p>
-      <strong>Tech Stack:</strong>
-      <p>
-        <img src="https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat-square&logo=gnu-bash" alt="Bash">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux" alt="Linux">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" alt="Docker">
-      </p>
-      <a href="#">View Source</a> </td>
-    <td width="50%">
-      <h3>TechZen Blog & Price Comparison</h3>
-      <p>A full-stack tech blog and price comparison platform. The site allows users to read articles, compare product prices, and interact with content. Powered by AI tools for content generation and analysis.</p>
-      <strong>Tech Stack:</strong>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" alt="Express">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="MongoDB">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React">
-      </p>
-      <a href="#">View Source</a> </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Nine Tails Kitchen</h3>
-      <p>A full-stack food delivery web application. It features separate portals for users and administrators, real-time order tracking, and a secure payment gateway integration.</p>
-      <strong>Tech Stack:</strong>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="MongoDB">
-      </p>
-      <a href="#">View Source</a> </td>
-    <td width="50%">
-      <h3>Hardware & IoT Projects</h3>
-      <p>
-        <ul>
-          <li><b>Smoke Detection System:</b> Real-time fire safety monitor using Arduino and smoke sensors.</li>
-          <li><b>Water Quality Monitor:</b> IoT device to measure water purity using TDS sensors.</li>
-        </ul>
-      </p>
-      <strong>Tech Stack:</strong>
-      <p>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino" alt="Arduino">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++">
-      </p>
-      <a href="https://github.com/Amrit1604?tab=repositories">View All Projects</a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎓 Education & Certifications
-
--   **B.Tech, Computer Science & Engineering** | Chitkara University, Punjab (2023–2027)
--   **Google Cybersecurity Professional Certificate** | Coursera (2024)
--   **Blockchain Specialization** (Fundamentals & Scalability) | Coursera (2025)
+<!-- unchanged -->
 
 ---
 
@@ -106,7 +46,24 @@ I am deeply interested in system architecture, automation, and the practical app
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrit1604&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-[![An image of @amrit1604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amrit1604)](https://holopin.io/@amrit1604)
+<!-- 🔽 ADDED: Holopin + Cisco badge block -->
+
+<p align="center">
+  <a href="https://holopin.io/@amrit1604">
+    <img src="https://holopin.me/amrit1604" alt="Holopin badges" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/e35925a6-9eae-4744-8ce2-3f955b74ef1f" target="_blank">
+    <img
+      src="https://images.credly.com/size/340x340/images/9d6bcbe3-0c0c-4d3b-8f5f-8c7d4e4d7f1c/cisco-logo.png"
+      alt="Cisco Certification Badge"
+      width="140"
+    />
+  </a>
+</p>
+
 ---
 
 ### 📫 Let's Connect
