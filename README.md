@@ -55,14 +55,11 @@ I am deeply interested in system architecture, automation, and the practical app
 </p>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/e35925a6-9eae-4744-8ce2-3f955b74ef1f" target="_blank">
-    <img
-      src="https://images.credly.com/size/340x340/images/9d6bcbe3-0c0c-4d3b-8f5f-8c7d4e4d7f1c/cisco-logo.png"
-      alt="Cisco Certification Badge"
-      width="140"
-    />
+  <a href="https://www.credly.com/badges/e35925a6-9eae-4744-8ce2-3f955b74ef1f">
+    <img src="https://img.shields.io/badge/Cisco-Verified_Certification-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
   </a>
 </p>
+
 
 ---
 
